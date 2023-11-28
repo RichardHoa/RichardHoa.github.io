@@ -57,6 +57,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+comments:
+  provider: "facebook"
+  facebook:
+    appid: # optional
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
+
 author:
   name   : "Richard Hoa"
   avatar : "/assets/images/bio-photo.jpg"
@@ -95,10 +102,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       comments: true
       share: true
       related: true
+      show_date: true
+      
   # _pages
   - scope:
       path: "_pages"
