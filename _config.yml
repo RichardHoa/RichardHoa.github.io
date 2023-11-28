@@ -22,7 +22,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: neon
 search: true
-
+url: "https://richardhoa.github.io"
 
 # Build settings
 markdown: kramdown
