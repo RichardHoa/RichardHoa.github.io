@@ -57,12 +57,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-comments:
-  provider: "facebook"
-  facebook:
-    appid: # optional
-    num_posts: 20
-    colorscheme: light
 
 author:
   name   : "Richard Hoa"
@@ -102,7 +96,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      comments: true
+      comments: false
       share: true
       related: true
       show_date: true
