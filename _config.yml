@@ -14,12 +14,12 @@ locale: "en-US"
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Let's know something you don't
-email: 
+title: My growup journey
+email: hoa62414@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place to show off my immaturity and failtures
-twitter_username: username
-github_username: username
+twitter_username: none
+github_username: RichardHoa
 minimal_mistakes_skin: neon
 search: true
 url: "https://richardhoa.github.io"
@@ -60,33 +60,31 @@ plugins:
 
 author:
   name   : "Richard Hoa"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Someone who dares to ask quesiton to one ask"
+  avatar : "/assets/images/avatar.jpg"
+  bio    : "I'm stupid, arrogant and short-minded, isn't that amazing?"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/profile.php?id=100090299986965"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/thaihoa2291/"
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/profile.php?id=100090299986965"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/thaihoa2291/"
 
 defaults:
   # _posts
@@ -95,7 +93,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       comments: false
       share: true
       related: true
