@@ -19,10 +19,9 @@ email: hoa62414@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place to show off my immaturity and failtures
 twitter_username: none
-github_username: RichardHoa
-minimal_mistakes_skin: neon
+github_username: richardhoa
+minimal_mistakes_skin: sunrise
 search: true
-url: "https://richardhoa.github.io"
 
 # Build settings
 markdown: kramdown
@@ -56,12 +55,13 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-github-metadata
 
 
 author:
   name   : "Richard Hoa"
   avatar : "/assets/images/avatar.jpg"
-  bio    : "I'm stupid, arrogant and short-minded, isn't that amazing?"
+  bio    : "I ponder about life"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

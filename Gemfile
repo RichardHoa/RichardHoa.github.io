@@ -9,6 +9,7 @@ gem 'public_suffix', '4.0.7'
 
 gem 'webrick'
 
+gem "jekyll-github-metadata"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

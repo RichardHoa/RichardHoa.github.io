@@ -5,6 +5,6 @@ title: "About"
 
 Why do this blog exits?
 
-It exists as a way for me to document my stipud (stupid) adult journey. That's it. 
+It exists as a way for me to document my adult journey, all the thoughts and observations
 
-Just read my posts, why do you care about my profile at all? 
+I'm currently a first year student at one university in Vietnam with an intended CS major. 
