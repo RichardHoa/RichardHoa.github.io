@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Richard Hoa"
-  avatar : "/assets/images/avatar.jpg"
+  avatar : "/assets/images/avatar.png"
   bio    : "I ponder about life"
   links:
     - label: "GitHub"
@@ -105,7 +105,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
