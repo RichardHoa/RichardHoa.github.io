@@ -1,12 +1,10 @@
 <section class="page__share">
   {% if site.data.ui-text[site.locale].share_on_label %}
-    <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
+    <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "" }}</h4>
   {% endif %}
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}" class="btn btn--facebook" target="_blank" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
-
-  <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" target="_blank" rel="noopener noreferrer" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn">
-    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+  <a href="https://forms.gle/najdG7HDq6FQR3iZ7" target="_blank">
+  Join my newsletter
   </a>
   
 </section>
