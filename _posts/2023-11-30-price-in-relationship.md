@@ -3,7 +3,7 @@ title: "Price in relationship"
 categories:
   - Blog
 tags:
-  - Relationship
+  - Thoughts
 ---
 
 

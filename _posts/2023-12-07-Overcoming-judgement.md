@@ -3,7 +3,7 @@ title: "Overcoming judgement"
 categories:
   - Blog
 tags:
-  - Life
+  - Thoughts
 ---
 Everything has some nuances in it, doesn't it? There are always two sides to a coin. Our brain can't grasp that. How are you going to survive in a world where there are no labels?
 

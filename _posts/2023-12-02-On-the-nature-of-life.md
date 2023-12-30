@@ -3,7 +3,7 @@ title: "On the nature of life"
 categories:
   - Blog
 tags:
-  - Life
+  - Thoughts
 ---
 
 I just had the first counselling session ever in my entire life. And it's amazing. It got me thinking about the nature of life. It's always a mix of good and bad. I don't want to use extreme words like "always" or "never," but I really think there's always good and bad. Social media nowadays only presents the good, doesn't it? It's about being successful, being disciplined, being in the top 1%, and doing something spectacular. These are certainly good things; we should live to the best of our capacity. I truly believe in it. But sometimes it can backfire, like the feeling of being worthless when you're not being productive. With the obsession that your life has to be 100% optimised, there's no "waste" time whatsoever. You've got to work towards creating something valuable all the time.
