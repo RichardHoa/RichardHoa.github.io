@@ -13,6 +13,7 @@ There are happy moments when the two come together and have an amazing time, but
 
 Leaving your ego behind and growing up is extremely painful; it's not easy; it's not like reading a spiritual book and suddenly your ego vanishes away. It's a tough, tough process. It's just that you have to pay the price, I don't see any other way around. If you find a shortcut, please let me know. If you don't want to pay the price and go through tough moments, sure, you can always break up and have amazing alone time. 
 
+
 You always have options. But you won't experience those joyful moments that only exist in romantic relationships.
 
 Sooooo, what's the lesson here? 
