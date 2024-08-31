@@ -16,7 +16,7 @@ footer_text: >
 
 keywords: jekyll, jekyll-theme,  portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 😊 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://RichardHoa.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -152,7 +152,7 @@ related_blog_posts:
 giscus:
   repo: RichardHoa/RichardHoa.github.io # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOMqlC8Q # leave empty or specify your repo_id (see https://giscus.app/)
-  category: Comments # name of the category under which discussions will be created
+  category: General # name of the category under which discussions will be created
   category_id: DIC_kwDOMqlC8c4CiGbr # leave empty or specify your category_id (see https://giscus.app/)
   mapping: title # identify discussions by post title
   strict: 0 # use strict identification mode
@@ -449,7 +449,7 @@ enable_video_embedding: false # enables video embedding for bibtex entries. If f
 # The integrity hash is used to ensure that the library is not tampered with.
 # Integrity hashes not provided by the libraries were generated using https://www.srihash.org/
 third_party_libraries:
-  download: true # if true, download the versions of the libraries specified below and use the downloaded files
+  download: false # if true, download the versions of the libraries specified below and use the downloaded files
   bootstrap-table:
     integrity:
       css: "sha256-uRX+PiRTR4ysKFRCykT8HLuRCub26LgXJZym3Yeom1c="
