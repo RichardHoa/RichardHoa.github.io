@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Đặng Thái Hoà
+    # - name: Date of Birth
+    #   value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: Proficient in English, native in Vietnamese
 
 - title: Education
   type: time_table
