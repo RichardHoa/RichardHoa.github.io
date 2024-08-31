@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
+title: PROJECTS
+permalink: /
+description: Hi, let's cut to the chase, my name is Dang Thai Hoa (You can call me Richard Hoa if you are not vietnamese), below are the list of all the projects I've done
+nav: false
 nav_order: 3
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
