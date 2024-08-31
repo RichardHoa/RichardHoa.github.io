@@ -28,20 +28,6 @@
   ],
   "work": [
     {
-      "name": "ROAD Education",
-      "position": "Full-stack website developer",
-      "location": "remote",
-      "url": "https://www.road.edu.vn/",
-      "startDate": "01.2024",
-      "endDate": "Now",
-      "summary": "Building the road website from complete scratch",
-      "highlights": [
-        "Developed and deployed ROAD's website on AWS: utilizing EC2, S3, load balancer, establish CI/CD pipeline with GitHub actions.",
-        "Managing domain acquisition and integrated additional AWS services to optimize performance, scalability and achieve 99,9% uptime.",
-        "Implemented specialized functionalities for each product on ROAD website, namely STEM"
-      ]
-    },
-    {
       "name": "Shottr",
       "position": "Software tester",
       "location": "remote",
@@ -53,6 +39,20 @@
         "Collaborating directly with the founder to identify and resolve more than 30 bugs, including 5 serious bugs.",
         "Received positive feedback for my attention to detail and efficient bug-finding.",
         "Processed over 300 user feedback entries in Google Sheets to identify key response patterns, contributing to the development of a user-centric roadmap for Shottr."
+      ]
+    },
+    {
+      "name": "ROAD Education",
+      "position": "Full-stack website developer",
+      "location": "remote",
+      "url": "https://www.road.edu.vn/",
+      "startDate": "01.2024",
+      "endDate": "Now",
+      "summary": "Building the road website from complete scratch",
+      "highlights": [
+        "Developed and deployed ROAD's website on AWS: utilizing EC2, S3, load balancer, establish CI/CD pipeline with GitHub actions.",
+        "Managing domain acquisition and integrated additional AWS services to optimize performance, scalability and achieve 99,9% uptime.",
+        "Implemented specialized functionalities for each product on ROAD website, namely STEM"
       ]
     }
   ],
