@@ -3,5 +3,5 @@ github_users:
 
 repo_description_lines_max: 10
 
-github_repos:
-  - RichardHoa/maze_solver
+# github_repos:
+#   - RichardHoa/maze_solver

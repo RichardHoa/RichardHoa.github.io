@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Web crawler
+description: Web crawler with go
 img:
 importance: 3
-category: fun
+category: personal
 ---
 
 Every project has a beautiful feature showcase page.

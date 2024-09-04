@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: REPO
 description: Some info about my repo and public project
-nav: true
+nav: false
 nav_order: 4
 ---
 
