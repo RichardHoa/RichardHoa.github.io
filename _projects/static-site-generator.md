@@ -5,7 +5,9 @@ description: Static site generator using Python
 importance: 2
 category: fun
 ---
+
 ## Source code:
+
 Please view the source code [here](https://github.com/RichardHoa/basic-static-site-generator)
 
 ## How it works:
@@ -27,10 +29,10 @@ Read my [test](/test)
 
 ## Reasons I like Tolkien
 
-* You can spend years studying the legendarium and still not understand its depths
-* It can be enjoyed by children and adults alike
-* Disney *didn't ruin it*
-* It created an entirely new genre of fantasy
+- You can spend years studying the legendarium and still not understand its depths
+- It can be enjoyed by children and adults alike
+- Disney _didn't ruin it_
+- It created an entirely new genre of fantasy
 
 ## My favorite characters (in order)
 
@@ -47,12 +49,12 @@ Read my [test](/test)
 Here's what `elflang` looks like (the perfect coding language):
 
 func main(){
-    fmt.Println("Hello, World!")
+fmt.Println("Hello, World!")
 }
-
 ```
 
 ## HTML page
+
 The markdown above would be transformed into a structured and styled HTML document that looks like this:
 
 {% include figure.liquid loading="eager" path="assets/img/static-site-generator.png" title="example image" class="img-fluid rounded z-depth-1" %}

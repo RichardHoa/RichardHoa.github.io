@@ -20,4 +20,3 @@ This is what you get when loading the code:
 ## How It Works
 
 The code uses a brute-force approach, meaning it checks every possible path. If there is no exit to a path, it backtracks and checks another path, continuing this process until it finds the end of the maze.
-

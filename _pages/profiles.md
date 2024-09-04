@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: prof_pic.jpeg
     content: about.md
-    image_circular: false 
+    image_circular: false
     more_info: >
       <p>District 7</p>
       <p>Ho Chi Minh city</p>
