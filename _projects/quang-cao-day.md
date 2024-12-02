@@ -1,7 +1,6 @@
 ---
 layout: page
 title: AI ads generator - Quang Cao Day
-description: An AI ads generator website I build
 importance: 2
 category: work
 ---
@@ -10,7 +9,9 @@ I developed this website using the MUI library and React, incorporating serverle
 
 ## Website
 
-You can visit at the link: quangcaoday.nghiencuuvietnam.com
+You can visit at the link: [quangcaoday.nghiencuuvietnam.com](quangcaoday.nghiencuuvietnam.com)
+
+Below are the images of the website in case it's down
 
 {% include figure.liquid loading="eager" path="assets/img/quangcaoday-1.png" title="Website first page" class="img-fluid rounded z-depth-1" %}
 {% include figure.liquid loading="eager" path="assets/img/quangcaoday-2.png" title="Website introduction page" class="img-fluid rounded z-depth-1" %}
