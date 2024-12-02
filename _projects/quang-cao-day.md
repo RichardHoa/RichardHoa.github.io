@@ -13,7 +13,6 @@ I developed this website using the MUI library and React, incorporating serverle
 
 You can visit at the link: quangcaoday.nghiencuuvietnam.com
 
-
 ## Capability
 
 If you are Vietnamese, this website offers a unique opportunity to explore and experience its features tailored specifically for the community. The platform provides an in-depth introduction to its purpose, capabilities, and how it integrates cultural and historical elements. You'll find a detailed guide to navigate its functionalities and make the most out of your experience.
