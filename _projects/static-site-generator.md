@@ -2,7 +2,7 @@
 layout: page
 title: Static site generator
 description: Static site generator using Python
-importance: 2
+importance: 3
 category: fun
 ---
 
