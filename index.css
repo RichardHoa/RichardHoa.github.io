@@ -1,0 +1,33 @@
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  :root {
+    color-scheme: light dark;
+    --light-font-color: #000000;
+    --dark-font-color: #ffffff;
+  }
+  html {
+    background-color: light-dark(#fcf8e3, rgb(25, 3, 27));
+    color: light-dark(var(--light-font-color), var(--dark-font-color));
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+  }
+
+  main,
+  footer,
+  nav {
+    max-width: 800px;
+    padding: 20px;
+    line-height: 1.2rem;
+    margin: 0 auto;
+  }
+
+  .projects div {
+    margin: 5px 0;
+  }
+}

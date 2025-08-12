@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Project | ROAD Education</title>
+    <link rel="icon" href="../favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="../index.css" />
+  </head>
+  <body>
+    <main>
+      <h1>ROAD Education project</h1>
+
+      <h2>Introduction</h2>
+      <p>
+        I built the website from complete scratch, primarily using AWS to host
+        the entire site, you can visit the site through the link
+        <a
+          href="https://www.road.edu.vn"
+          target="_blank"
+          rel="no-referrer noopener"
+          >road.edu.vn</a
+        >.
+      </p>
+
+      <h2>Technology</h2>
+
+      <ul>
+        <li><strong>Frontend:</strong> React with MUI Library</li>
+        <li><strong>Backend:</strong> Node.js with Express framework</li>
+        <li><strong>Database:</strong> MongoDB</li>
+      </ul>
+
+      <h2>Advanced features</h2>
+
+      <h3>Road to Uni (depreciated)</h3>
+      <p>
+        This feature allows students to search, pick, and choose universities
+        based on different criteria. Our database covers most universities in
+        Vietnam, except the area near Hanoi capital.
+      </p>
+      <img
+        src="/public/images/road-to-uni.jpeg"
+        alt="Demonstration of Road to Uni feature"
+      />
+      <h3>STEM (depreciated)</h3>
+
+      <p>
+        This active function allows teachers to upload their STEM curriculum for
+        students, as well as download materials from other teachers. The website
+        includes filters that allow teachers to refine their searches based on
+        different criteria, such as:
+      </p>
+
+      <ul>
+        <li>Grade level (10, 11, 12)</li>
+        <li>High school</li>
+        <li>Subject</li>
+        <li>Length of the curriculum</li>
+      </ul>
+      <p>
+        Additionally, teachers can use the autocomplete search feature to
+        quickly find their desired files
+      </p>
+
+      <img src="/public/images/stem.png" alt="Demonstration of STEM feature" />
+
+      <h2>Technical Enhancements</h2>
+      <p>
+        Beyond the core features, I implemented several key improvements focused
+        on performance, security, and development best practices.
+      </p>
+
+      <h3>Performance &amp; Modern Features</h3>
+      <ul>
+        <li>
+          <strong>Core Web Vitals:</strong> Optimized Largest Contentful Paint
+          (LCP), Interaction to Next Paint (INP), and Cumulative Layout Shift
+          (CLS) by refining asset loading strategies, reducing render-blocking
+          resources, and implementing lazy loading.
+        </li>
+        <li>
+          <strong>Progressive Web App (PWA):</strong> Enabled app installation
+          prompts by implementing PWA standards.
+        </li>
+        <li>
+          <strong>Data Storage:</strong> Migrated client-side data storage from
+          <code>localStorage</code> to <code>IndexedDB</code> to support larger
+          datasets and improve asynchronous performance.
+        </li>
+      </ul>
+
+      <h3>Security &amp; Data Privacy</h3>
+      <ul>
+        <li>
+          <strong>Content Security Policy (CSP):</strong> Deployed strict CSP
+          headers to mitigate cross-site scripting (XSS) and other injection
+          attacks.
+        </li>
+        <li>
+          <strong>CSRF Protection:</strong> Secured all state-changing requests
+          with anti-CSRF tokens to prevent cross-site request forgery.
+        </li>
+        <li>
+          <strong>Compromised Password Prevention:</strong> Integrated the
+          <code>HaveIBeenPwned</code> API on the backend to block users from
+          signing up with known breached passwords.
+        </li>
+        <li>
+          <strong>Secure Logging:</strong> Anonymized backend logs by replacing
+          sensitive data with non-identifiable UUIDs for debugging, ensuring
+          user privacy.
+        </li>
+      </ul>
+
+      <h3>Testing &amp; Deployment</h3>
+      <ul>
+        <li>
+          <strong>End-to-End Testing:</strong> Built an automated testing suite
+          with Cypress to validate critical user flows and prevent regressions.
+        </li>
+        <li>
+          <strong>Staging Environment:</strong> Established a dedicated staging
+          environment for comprehensive pre-deployment testing and quality
+          assurance.
+        </li>
+        <li>
+          <strong>CloudFront Stability:</strong> Build a file name filtering to
+          handle AWS CloudFront's limitations for object names, ensuring file
+          upload reliability.
+        </li>
+      </ul>
+
+      <h3>Accessibility</h3>
+      <ul>
+        <li>
+          <strong>WCAG Implementation:</strong> Systematically improved
+          application accessibility by applying technical standards guided by
+          the Web Content Accessibility Guidelines (WCAG) 2.2.
+        </li>
+      </ul>
+
+      <h2>NOTE</h2>
+      <p>
+        Right now the website has been transferred to wordpress.org since the
+        team no longer need advanced website
+      </p>
+    </main>
+  </body>
+</html>
